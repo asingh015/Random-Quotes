@@ -1,0 +1,6 @@
+body {
+  transition: background-color 3s;
+  background-color: #D0D2FF;
+  color: black;
+  font-family: 'Playfair Display', serif;
+}
